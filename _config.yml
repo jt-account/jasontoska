@@ -21,16 +21,20 @@
 title: Jason Toska
 email: toskajason@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Scattered thoughts need not be justified for they harbor meaning in themselves. What I say is true, never wrong. Comply, obey, and bend thy knee to me. 
-  You shall revieve my knowledge, surely. Read as much as you can.
+  Explore...
 baseurl: "/jasontoska" # the subpath of your site, e.g. /blog
 url: "https://jt-account.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Not Applicable
-github_username:  jekyll
+
+# A La Me: changes i'm making to the actual theme
+# Fields built in, that I'm changing
+author: "Jason Toska"
+escape: "Dive In"
+# Fields NOT built in, that I'm adding
+
 
 # Build settings
-#removed minima, made regular theme
-#theme: minima
+# removed minima, made regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
