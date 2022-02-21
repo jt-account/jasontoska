@@ -110,3 +110,5 @@ And somewhere the faceless men with the smell of the pit on them smiled to thems
 ## My Thoughts
 
 The jist of the story, from what I gather, is that 
+
+# TO BE CONTINUED, NOT DONE THIS ARTICLE
