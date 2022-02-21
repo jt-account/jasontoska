@@ -11,4 +11,4 @@ I'm not joking; I would never tell a joke or be funny. This is 100 percent what 
 
 ---
 
-Do *NOT* email me at `toskajason*(at)*gmail*(dot)*com` when you have something to say. 
+Do *NOT* email me at `toskajason(at)gmail(dot)com` when you have something to say. 
