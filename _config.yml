@@ -22,13 +22,15 @@ title: Jason Toska
 email: toskajason@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Explore...
-baseurl: "/jasontoska" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jt-account.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # A La Me: changes i'm making to the actual theme
 # Fields built in, that I'm changing
 author: "Jason Toska"
 escape: "Dive In"
+markdown: kramdown
+permalink: /posts/:title
 # Fields NOT built in, that I'm adding
 
 
@@ -37,6 +39,7 @@ escape: "Dive In"
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
